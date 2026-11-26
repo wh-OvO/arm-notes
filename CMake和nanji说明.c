@@ -1,4 +1,4 @@
-首先要理解为什么用cmake不用makefile：
+﻿首先要理解为什么用cmake不用makefile：
 {
 CMake是一个“元构建系统”（Meta - Build - System）：
  {
