@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+x64/
+Debug/
+Release/
+*.obj
+*.ipch
+*.vsidx
+*.db
+*.db-shm
+*.db-wal
